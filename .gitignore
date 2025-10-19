@@ -1,0 +1,11 @@
+# Dependencies and OS files
+.DS_Store
+Thumbs.db
+node_modules/
+.env
+.env.*
+.vscode/
+.idea/
+coverage/
+dist/
+build/
